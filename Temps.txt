@@ -1,0 +1,30 @@
+﻿SELECT * FROM INFORMATION_SCHEMA.COLUMNS
+\\bgsovswops\General Team Files\Doc_Dani -- Shared Folder
+
+https://app.pluralsight.com/library/courses/principles-oo-design/table-of-contents
+
+16.53.35.142
+
+<asp:HyperLinkField Text="Edit" HeaderText="Action Edit" DataNavigateUrlFields="ID"
+                    DataNavigateUrlFormatString="~/Views/SalesPlans/General.aspx?ID={0}" />
+					
+					
+					ROleID -- 68518CFD-5B30-4002-8D4A-301A1EDCD511
+
+ADAM.FEATHERSTON@HPE.COM	gk00488342
+
+button color #006B51
+philips 23psl5522
+
+ <add name="CharlieContext" connectionString="server=bgsovswops;Initial Catalog=CharlieQA;User ID=Charlie;Password=Ch@rl1e;" providerName="System.Data.SqlClient" />
+    <add name="CharlieContextQA" connectionString="server=bgsovswops;Initial Catalog=CharlieQA;User ID=Charlie;Password=Ch@rl1e" providerName="System.Data.SqlClient" />
+	
+	((x.Field<object>("Opportunity Close Fiscal Year Quarter Code").ToString().Substring(4, 2).Equals(OpportunityConstants.CURRENT_FYQUOTER) && x.Field<object>("Opportunity Close Fiscal Year Quarter Code").ToString().Substring(0, 4).Equals(OpportunityConstants.CURRENT_FY)) || (
+                    ((x.Field<object>("Opportunity Close Fiscal Year Quarter Code").ToString().Substring(4, 2).Equals("Q1")
+                    || (x.Field<object>("Opportunity Close Fiscal Year Quarter Code").ToString().Substring(4, 2)).Equals("Q2"))
+                    && x.Field<object>("Opportunity Close Fiscal Year Quarter Code").ToString().Substring(0, 4).Equals("2017"))
+                    ))
+                    )
+
+
+				
